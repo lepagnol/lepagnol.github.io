@@ -271,7 +271,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: "Calibri", monospace;
 		font-size: 0.9rem;
 		margin: 0 0 2rem 0;
 	}
@@ -1661,13 +1661,13 @@ input, select, textarea {
 		}
 		
 		.redSG{
-		color:#e9041e; }
+		color:#e9041e;font-size:18px; }
 		
 		.BlueCol{
-		color:#87CEFA }
+		color:#87CEFA;font-size:18px; }
 				
 		.GreenCol{
-		color:#98FB98}
+		color:#98FB98;font-size:18px;}
 		.PinkCol{color:#FFB6C1;}
 		
 		.bgwhite{background-color:#ffffff}
