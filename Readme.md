@@ -30,11 +30,7 @@ On va éviter « Make SG great again” en tout cas 😉
 
 1. Général
     * Calquer sur le theme SG : fond blanc avec texte rouge et noir
-    * Intégrer directement sur page web :
-        * CV Caroline
-        * CV Jerome
-        * Profession foi
-
+   
 2. Page « nous contacter » :
     * Envoyer un email à Jérôme
     * Envoyer un email à Caroline (changer mon mail SG qui a pour adresse : caroline.le-vaillant@socgen.com
