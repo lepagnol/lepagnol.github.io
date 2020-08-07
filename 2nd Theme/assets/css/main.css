@@ -3273,7 +3273,6 @@ input, select, textarea {
 			transition: all 0.5s ease;
 			max-width: 0;
 			opacity: 0;
-			overflow: hidden;
 			padding: 0;
 			white-space: nowrap;
 		}
@@ -3291,7 +3290,8 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#header .links {
-				display: none;
+				height: auto;
+			
 			}
 
 		}
@@ -3299,16 +3299,14 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				height: 2.75em;
-				line-height: 2.75em;
+				overflow: visible;
+				height: auto;
+				line-height: 2em;
 			}
+
 
 				#header h1 {
 					padding: 0 0 0 1em;
-				}
-
-				#header .main .search {
-					display: none;
 				}
 
 		}
