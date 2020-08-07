@@ -5,8 +5,6 @@
 ### Version française :
  
 * Nommer les pièces jointes comme le nom du fichier sur le site. Ex : quand on clique sur Manifesto, le fichier « Prof de foi Lepagnol EN »  s’ouvre.
-* 
-Le reste est vraiment top sur cette page, bravo
 * Nos différences : Jéjé c’est là qu’il faut qu’on reprenne un laïus sur les métiers de demain mais aussi ton idée d’application pour recueillir les infos du terrain et leur communiquer les nôtres
  
 ###  Version anglaise :
