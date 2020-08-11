@@ -124,7 +124,7 @@ input, select, textarea {
 	}
 
 		@media screen and (max-width: 1680px) {
-
+		
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
@@ -140,7 +140,7 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 980px) {
-
+			
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
@@ -148,7 +148,6 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
-
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
@@ -2880,13 +2879,13 @@ input, select, textarea {
 					-webkit-flex-direction: column;
 					-ms-flex-direction: column;
 					flex-direction: column;
-					padding: 3.75em 3em 1.25em 3em ;
+					padding: 1.75em 1em 0.25em 1em;
 					border-left: 0;
 				}
 
 					.post > header .title {
 						-ms-flex: 0 1 auto;
-						margin: 0 0 2em 0;
+						margin: 0 0 1em 0;
 						padding: 0;
 						text-align: center;
 					}
@@ -2957,7 +2956,7 @@ input, select, textarea {
 			}
 
 				.post > header {
-					padding: 3em 1.5em 0.5em 1.5em ;
+					padding: 2em 1.5em 0em 1.5em ;
 					left: -1.5em;
 					margin: -1.5em 0 1.5em 0;
 					width: calc(100% + 3em);
@@ -3604,9 +3603,19 @@ input, select, textarea {
 			transform: translateX(0);
 			visibility: visible;
 		}
+		@media screen and (max-width: 730px)  {
+			#header .links {
+				display: none !important;
+			}
+		}
+		@media screen and (min-width: 730px)  {
+			#MenuIcon {
+				display: none !important;
+			}
+		}
+		
 
 		@media screen and (max-width: 736px) {
-
 			#menu > * {
 				padding: 1.5em;
 			}
@@ -3615,7 +3624,7 @@ input, select, textarea {
 
 
 		.paragraph{
-			padding-left:3em
+			padding: 2em 1em;
 		}
 		.paragraph_list{
 			padding-left:7em
