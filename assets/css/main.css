@@ -3643,7 +3643,7 @@ input, select, textarea {
 			.PinkCol{color:#FFB6C1;}
 
 			.video_container{
-				height: 60vh;
+				height: 50	vh;
 				display: flex;
 				justify-content: center;
 			
