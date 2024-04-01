@@ -59,7 +59,7 @@ Notre expertise se concentre sur trois piliers :
     - Assurer l'articulation entre les le direction data/données et les systèmes d'information (en paticuler les applications).
 
 - Activité de conseil en Data Management:
-    - Governance (comment le Chief Data Officer organisae-t-il son périmètre et ces responsabilités) 
+    - Gouvernance (comment le Chief Data Officer organisae-t-il son périmètre et ces responsabilités) 
         - Role et responsabilité
         - Travail de mise en coordination des équipes 
     - Conformité Compliance 
