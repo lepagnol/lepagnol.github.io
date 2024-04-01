@@ -1,9 +1,11 @@
+execute:
+  freeze: auto
 
 project:
   type: website
 
 website:
-  title: "today"
+  title: "LDI"
 
 date: today
 
