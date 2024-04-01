@@ -6,6 +6,7 @@ pause
 
 git add .
 git commit -m "modif site : %now%"
+git push
 pause
 
 quarto publish gh-pages
