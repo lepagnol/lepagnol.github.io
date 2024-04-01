@@ -1,0 +1,27 @@
+
+project:
+  type: website
+
+website:
+  title: "today"
+
+date: today
+
+toc-title	: Sommaire
+fig-cap-location: bottom
+callout-appearance: simple
+callout-icon: false
+fontsize: "10pt"
+
+format:
+    html:
+        theme: cosmo
+        css: styles.css
+        toc: true
+    pdf:
+        geometry:
+            - top=10mm
+            - bottom=10mm
+            - left=15mm
+            - right=15mm
+            - heightrounded

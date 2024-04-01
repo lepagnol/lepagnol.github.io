@@ -1,0 +1,137 @@
+---
+title: "Lepagnol Data Intelligence"
+subtitle: "Lancement de projet"
+date: 2024-03-10
+keywords: ["Data", "Intelligence", "Conseil", "Formation", "Management de Transition", "Data Science", "Data Modeling", "Pilotage de Projet", "Compliance", "Gouvernance", "IA Act", "RGPD", "CDO", "Data Management",  "Audit", "Accompagnement"]
+---
+
+
+## Qui Suis-je ?
+
+::: {.columns}
+::: {.column width="60%"}
+- Professeur vacataire Université Paris Dauphine
+- Data Scientist - [Cerfifié ENSAE/LE CEPE](https://www.lecepe.fr/certificats/data-scientist/) - 2016
+- CAPES de mathématiques - 2014
+- Ingénieur Centrale Lyon - 1995
+- Double Diplome Centrale Lille - 1995
+- CPGE Stanislas Sup/ Spé M - 1989-1992
+:::
+
+::: {.column width="40%"}
+![Jerome Lepagnol](./assets/profile.jpeg)
+:::
+::::
+
+
+# Vision & Positionnement
+
+## Vision
+
+LDI aspire à être le leader dans l'accompagnement des organisations pour reconnaître, valoriser, et gouverner leurs données comme un actif stratégique et réglementé essentiel. Nous croyons que les données, au-delà de leur aspect technique, sont avant tout un élément clé de la stratégie d'entreprise, nécessitant une approche spécialisée en conseil, en  formation, et en management stratégique et opérationnel. 
+La vision que nous souaitons partager avec vous est que chaque organisation peut transformer ses données en leviers de croissance, d'innovation, et de conformité réglementaire, via une vision des données complémentaire à celles des systèmes d'information, de l 'organisation et des processus de l'entreprise.
+
+## Positionnement
+
+
+- Conseil
+- Formation
+- Management de Transition
+
+
+Nous sommes des partenaires pour les entreprises souhaitant exploiter leurs données au maximum de leur potentiel. 
+Notre expertise se concentre sur trois piliers :
+
+1. **Conseil** : Offrir des conseils organisationnels et stratégiques sur la gestion de la fonction data, couvrant la gouvernance, la conformité, la sécurité, la qualité, et l'architecture des données (vision métier, modélisation et définition).
+
+2. **Formation** : Proposer des formations adaptées aux besoins actuels et futurs des entreprises dans les domaines de la data science, de la modélisation des données, du management de projet, de la créativité, et de la conformité réglementaire (RGPD, BCBS,DORA...) avec la possibilité d'externaliser des formations spécialisées pour couvrir un spectre plus large de compétences.
+
+3. **Management de Transition** : Accompagner les entreprises dans des périodes de transition pour assurer une gestion efficace de leurs données, avec une approche flexible et adaptée aux défis spécifiques à chaque organisation. Ce pilier couvre également la possbilité de monter une structure Data au sein de votre entreprise en relation avec les Directions Métier, les services Informatiques et la Direction Générale. 
+
+
+## Conseil
+
+
+- Conseil Organisationel et Stratégique de la fonction data des entreprises : 
+    - les données sont avant tout un actif des métiers : il s'agit d'en tirer la mailleur valeur avec le concours des services IT. 
+    - les données sont un actif stratégique : les connaitre, les documenter, les converser, les valoriser, .
+    - les données sont un actif réglementé : les protéger, les gérer, les gouverner.
+    - Assurer l'articulation entre les le direction data/données et les systèmes d'information (en paticuler les applications).
+
+- Activité de conseil en Data Management:
+    - Governance (comment le Chief Data Officer organisae-t-il son périmètre et ces responsabilités) 
+        - Role et responsabilité
+        - Travail de mise en coordination des équipes 
+    - Conformité Compliance 
+    - Security/Privacy (Protection des données)
+    - Quality/Usage/Value:
+        - Cohérence/Intégrité
+        - Actualité
+        - Accessibilité
+        - Complétude/Exhaustivité
+        - Unicité/Fiabilité/Validité
+    - Architecture des données et Modélisation (usage IA/ ML des données)  :
+        - S'interresser à la scalabilité
+        - S'interresser à la Sécurité
+        - S'assurer de l'Auditabilité et de l'Explicabilité
+        - Garantir le reproductibilité des modèles statistiques (limiter l'entropie)
+
+- Autre activité de conseil :
+    - Organiser une démarche Data As a Product, instaurer le culture data.
+    - Gérer l'organisation d'un data lake
+    - Mettre en place d'une gouvernance des données
+    - Gérer des projet ayant un dimension data (interaction avec les projets IT)  - rôle de maitrise d'ouvrage stratégique
+
+
+### Questions aux le conseil pourrait répondre
+
+0. J'ai des données,  mais combien et où , je nne sais pas aidez-moi a les retrouver : comment les cartographier ?
+1. J'ai beaucoup de données, mais comment les valoriser?
+2. Mes données sont-elles de qualité ? Comment m'assurer de leur qualité pour mes usages ?
+3. Est-ce que je gère bien mes données ? Comment m'assurer de bien les gérer ?
+4. Comment mettre en place une data gouvernance et s'assurer de la data quality ?
+
+## Formations
+
+Differentes Thématiques:
+
+- Data définition et Data Modeling (SQL, ERQL, UML)
+- Data Science (ML, IA Gen, l'outil statistique) 
+- Principe d'architecture de donnée (DataLake, ETL, Base de donnée, stockage, flux , API) 
+- Pilotage de Projet 
+- Compliance et Gouvernance (IA Act, RGPD, DMA, DSA)
+- Atelier de Créativité - résolution de problème 
+- Formations sur Mesure
+
+### Formations possiblement externalisées
+
+
+- IA avancée
+- Cloud Computing
+- DevOps
+- Cybersecurité
+- Base de données avancée (Blockchain)
+- Data Engineering
+- Framework de développement applicatif (Kafka, Spark, Hadoop, etc.)
+- Architecture de service avancée (APIs)
+- Juridique spécialisé en propriété des données personnelles
+- Choix d'infrastructures pour le stockage et de traitement de données
+
+## Management de Transition 
+
+Votre entreprise vit restructuration,une gestion de crise, une situation d'urgence, un retournement ou un départ inopiné d'un collaborateur clé. LDI peut vous aider à faire face à la situation. Pertinent dans les domaines data (CDO, Data owner, Data Design, Data quality mangement, Data usage management, Data Protection management, Data Science manager, Data Wrangling, DAta Engineering, ...) ou les rôles intermédiaire entre les services informatique et les métier ou la direction générale (rôle de DSI, Direction des Etudes, Direction portefeuille de projet, PMO, Direction de la MOA, MOA stratégique, Audit informatique) , mon entreprise vous permettra de sortir grandi de la situation que ce soit pour des évolutions (prise en compte accrue de la donnée) ou pour assurer une continuté de la fonction data exsitante. 
+
+Le management de transition assure donc 2 types de foncitons 
+- Création de la fonction Data de votre entreprise (recrutement, élaboration de process,  organisaiton, outillages ...)
+- Transition pour les postes de manager (typiquement CDO : manager la fonction data de votre entreprise en cas d'urgence)
+
+
+### Ce qui est apriori hors périmètre d'intervention
+
+Notre focus reste sur l'apport de valeur à nos client via le conseil stratégique, la formation, et le management de transition centrés sur les données, mais des coordonner des activités complémentaires peuvent y contribuer , et la prestation pourra offrir cette coordination :
+
+- Développement de logiciel (aspect qualités, test, expérience utilisateur, performance ...) 
+- Infogérance/Support (trouvre un hebergeur, négocier le contrat, s'assurer des niveau de prestations adaptées, SLA)  
+- Vente de matériel/logiciel (trouver des fournisseur, gérer des AO, dépouiller les réponses, selectionner le fournisseur, suivre l'éxecution du contrat ... )
+
+Nous sommes dédiés à transformer les données en un atout compétitif pour nos clients, en mettant l'accent sur la gouvernance, la qualité, et la sécurité des données.
